@@ -1,0 +1,3 @@
+If you are working on windows then to start the zenml server you need to use "zenml up --blocking".
+
+Also to start the deployment pipeline you need to do the project in any Linux Distro environment like WSL on windows or in an installed Ubuntu environment because Daemon functionality is not supported on windows.
